@@ -7,7 +7,7 @@ http://jupyter.readthedocs.org/en/latest/install.html
 
 http://ipython.org/notebook.html
 
-### サンプルのダウンロード
+### このサンプルのダウンロード
 `git clone https://github.com/rb-roomba/ipython_notebook_practice.git`
 
 ### 実行
