@@ -5,11 +5,11 @@ IPython Notebookがどのようなものか、手早くざっくりと知るた�
 ### IPython Notebookのインストール
 http://jupyter.readthedocs.org/en/latest/install.html
 
-$ sudo pip install jupyter
+`sudo pip install jupyter`
 など。
 
 ### このサンプルのダウンロード
 `git clone https://github.com/rb-roomba/ipython_notebook_practice.git`
 
 ### 実行
-$ ipython notebook
+`ipython notebook`
